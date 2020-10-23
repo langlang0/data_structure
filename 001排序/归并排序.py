@@ -41,4 +41,4 @@ def merges(left, right):                 # 指针法
 
 if __name__ == '__main__':
     a = [3, 4, 6, 2, 7, 9, 1]
-    print(merdeSort(a))
+    print(mergeSort(a))
